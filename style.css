@@ -8,4 +8,11 @@ body {
 
 img {
   border-radius: 8px;
-};
+}
+
+.beschreibung {
+  border: 5px solid #ffd700;
+  background-color: grey;
+  color: black;
+}
+
