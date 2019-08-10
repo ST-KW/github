@@ -1,8 +1,8 @@
 body {
       background-color: black;
       color: white;
-      padding: 20px;
-      margin-top: 20px;
+      padding: 5px;
+      margin-top: 5px;
     }
 
 img {
@@ -10,9 +10,7 @@ img {
     }
 
 .beschreibung {
-  border: 5px solid #ffd700;
-  background-color: grey;
-  color: black;
+  border: 1px solid #ffffff;
   padding: 10px;
   margin-top: 10px;
 }
